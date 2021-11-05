@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609329790 source:c:\users\windows_10\documents\plus_ou_moins\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1636143278 source:d:\mes programme\c\plus_ou_moins\main.c
+	<stdio.h>
+	<stdlib.h>
+
