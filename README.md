@@ -15,8 +15,8 @@ This project is a simple C-based game called "Plus or Minus". It's a guessing ga
 - **Determining the Winner**: The player with the fewest attempts wins the game.
 
 ## Compilation and Execution
-1. Clone this repository: `git clone https://github.com/your-username/repository-name.git`
-2. Navigate to the project folder: `cd repository-name`
+1. Clone this repository
+2. Navigate to the project folder
 3. Compile the project: `gcc -o plusorminus plusorminus.c`
 4. Run the game: `./plusorminus`
 
